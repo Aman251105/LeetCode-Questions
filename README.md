@@ -24,6 +24,7 @@
 | [0014-longest-common-prefix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/Aman251105/LeetCode-Questions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Two Pointers
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aman251105/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 ## String Matching
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Aman251105/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
