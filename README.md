@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Aman251105/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aman251105/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aman251105/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Aman251105/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aman251105/LeetCode-Questions/tree/master/0326-power-of-three) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman251105/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Aman251105/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Aman251105/LeetCode-Questions/tree/master/2951-find-the-peaks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
