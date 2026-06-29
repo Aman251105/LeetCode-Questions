@@ -18,6 +18,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aman251105/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Aman251105/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aman251105/LeetCode-Questions/tree/master/0704-binary-search) |
 ## Interactive
@@ -37,6 +38,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman251105/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aman251105/LeetCode-Questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aman251105/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aman251105/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
