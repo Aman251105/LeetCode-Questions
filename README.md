@@ -10,4 +10,9 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aman251105/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Aman251105/LeetCode-Questions/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Aman251105/LeetCode-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
