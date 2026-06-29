@@ -57,6 +57,7 @@
 | [0344-reverse-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aman251105/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Aman251105/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -95,6 +96,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Aman251105/LeetCode-Questions/tree/master/0901-online-stock-span) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aman251105/LeetCode-Questions/tree/master/0901-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
