@@ -76,6 +76,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aman251105/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aman251105/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Aman251105/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aman251105/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -122,6 +124,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aman251105/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aman251105/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Aman251105/LeetCode-Questions/tree/master/0901-online-stock-span) |
 ## Data Stream
