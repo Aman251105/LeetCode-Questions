@@ -25,6 +25,7 @@
 | [0014-longest-common-prefix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Aman251105/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Aman251105/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
@@ -48,6 +49,7 @@
 | [0013-roman-to-integer](https://github.com/Aman251105/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Aman251105/LeetCode-Questions/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Aman251105/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
@@ -110,6 +113,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Aman251105/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
