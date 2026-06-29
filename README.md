@@ -11,6 +11,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Aman251105/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Aman251105/LeetCode-Questions/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/Aman251105/LeetCode-Questions/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0704-binary-search](https://github.com/Aman251105/LeetCode-Questions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
