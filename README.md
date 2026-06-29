@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Aman251105/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -73,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Aman251105/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Queue
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aman251105/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
