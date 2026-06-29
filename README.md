@@ -48,6 +48,7 @@
 | [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2951-find-the-peaks](https://github.com/Aman251105/LeetCode-Questions/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Aman251105/LeetCode-Questions/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
