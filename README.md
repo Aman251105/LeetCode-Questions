@@ -157,6 +157,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
@@ -167,4 +168,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
