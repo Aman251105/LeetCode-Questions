@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/Aman251105/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aman251105/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Aman251105/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aman251105/LeetCode-Questions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Aman251105/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aman251105/LeetCode-Questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aman251105/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aman251105/LeetCode-Questions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -165,6 +167,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Aman251105/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aman251105/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0394-decode-string) |
 ## Prefix Sum
