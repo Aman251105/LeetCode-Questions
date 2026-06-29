@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Aman251105/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aman251105/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Aman251105/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aman251105/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aman251105/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Aman251105/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman251105/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aman251105/LeetCode-Questions/tree/master/0136-single-number) |
