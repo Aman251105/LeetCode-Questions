@@ -51,6 +51,7 @@
 | [0704-binary-search](https://github.com/Aman251105/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Aman251105/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2951-find-the-peaks](https://github.com/Aman251105/LeetCode-Questions/tree/master/2951-find-the-peaks) |
 ## Two Pointers
@@ -102,6 +103,7 @@
 | [0135-candy](https://github.com/Aman251105/LeetCode-Questions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Aman251105/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Aman251105/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Aman251105/LeetCode-Questions/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
