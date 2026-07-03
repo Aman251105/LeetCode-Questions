@@ -18,6 +18,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aman251105/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0162-find-peak-element) |
@@ -34,6 +35,7 @@
 | [0014-longest-common-prefix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aman251105/LeetCode-Questions/tree/master/0066-plus-one) |
