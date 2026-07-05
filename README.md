@@ -40,6 +40,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aman251105/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aman251105/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Aman251105/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Aman251105/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
@@ -238,4 +240,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
