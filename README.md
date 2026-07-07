@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aman251105/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0162-find-peak-element) |
@@ -38,6 +39,7 @@
 | [0027-remove-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
