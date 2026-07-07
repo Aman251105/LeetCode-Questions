@@ -46,6 +46,7 @@
 | [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aman251105/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Aman251105/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aman251105/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman251105/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aman251105/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aman251105/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aman251105/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
