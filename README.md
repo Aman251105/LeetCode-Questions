@@ -65,6 +65,7 @@
 | [0455-assign-cookies](https://github.com/Aman251105/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Aman251105/LeetCode-Questions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Aman251105/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Aman251105/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Aman251105/LeetCode-Questions/tree/master/0735-asteroid-collision) |
@@ -97,6 +98,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aman251105/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Aman251105/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Aman251105/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0409-longest-palindrome](https://github.com/Aman251105/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Aman251105/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Aman251105/LeetCode-Questions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Aman251105/LeetCode-Questions/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
@@ -158,6 +162,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -273,6 +278,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
