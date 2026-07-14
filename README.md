@@ -62,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/Aman251105/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aman251105/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/Aman251105/LeetCode-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0455-assign-cookies](https://github.com/Aman251105/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Aman251105/LeetCode-Questions/tree/master/0605-can-place-flowers) |
@@ -216,6 +217,7 @@
 | [0155-min-stack](https://github.com/Aman251105/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aman251105/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aman251105/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/Aman251105/LeetCode-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/Aman251105/LeetCode-Questions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -240,6 +242,7 @@
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/Aman251105/LeetCode-Questions/tree/master/0307-range-sum-query-mutable) |
 ## Linked List
 |  |
 | ------- |
@@ -283,4 +286,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Aman251105/LeetCode-Questions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Aman251105/LeetCode-Questions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
