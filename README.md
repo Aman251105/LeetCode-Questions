@@ -251,14 +251,17 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman251105/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman251105/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman251105/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Enumeration
 |  |
@@ -294,4 +297,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Aman251105/LeetCode-Questions/tree/master/0307-range-sum-query-mutable) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman251105/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
