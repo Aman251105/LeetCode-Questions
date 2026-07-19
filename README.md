@@ -66,6 +66,7 @@
 | [0283-move-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/Aman251105/LeetCode-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0455-assign-cookies](https://github.com/Aman251105/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Aman251105/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
@@ -130,6 +131,7 @@
 | [0392-is-subsequence](https://github.com/Aman251105/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Aman251105/LeetCode-Questions/tree/master/0409-longest-palindrome) |
+| [0474-ones-and-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman251105/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aman251105/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Aman251105/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Queue
 |  |
