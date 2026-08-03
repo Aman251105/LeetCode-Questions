@@ -77,6 +77,7 @@
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Aman251105/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aman251105/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aman251105/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2951-find-the-peaks](https://github.com/Aman251105/LeetCode-Questions/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@
 | [0217-contains-duplicate](https://github.com/Aman251105/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Aman251105/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aman251105/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0605-can-place-flowers](https://github.com/Aman251105/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Aman251105/LeetCode-Questions/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aman251105/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
