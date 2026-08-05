@@ -51,6 +51,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aman251105/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Aman251105/LeetCode-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman251105/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aman251105/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -112,6 +113,7 @@
 | [0001-two-sum](https://github.com/Aman251105/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aman251105/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Aman251105/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aman251105/LeetCode-Questions/tree/master/0217-contains-duplicate) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Aman251105/LeetCode-Questions/tree/master/0307-range-sum-query-mutable) |
@@ -265,6 +268,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aman251105/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -276,6 +280,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aman251105/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Enumeration
 |  |
