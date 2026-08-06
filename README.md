@@ -279,6 +279,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Aman251105/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/Aman251105/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -308,6 +309,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -328,8 +330,18 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Aman251105/LeetCode-Questions/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Aman251105/LeetCode-Questions/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
