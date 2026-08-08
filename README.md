@@ -46,6 +46,7 @@
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Aman251105/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Aman251105/LeetCode-Questions/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/Aman251105/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aman251105/LeetCode-Questions/tree/master/0055-jump-game) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Aman251105/LeetCode-Questions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Aman251105/LeetCode-Questions/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -348,4 +350,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Aman251105/LeetCode-Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
