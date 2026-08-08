@@ -244,6 +244,7 @@
 | [0002-add-two-numbers](https://github.com/Aman251105/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aman251105/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Aman251105/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aman251105/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aman251105/LeetCode-Questions/tree/master/0342-power-of-four) |
@@ -267,6 +268,7 @@
 | [0002-add-two-numbers](https://github.com/Aman251105/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aman251105/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Tree
 |  |
 | ------- |
