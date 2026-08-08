@@ -45,6 +45,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Aman251105/LeetCode-Questions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Aman251105/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aman251105/LeetCode-Questions/tree/master/0055-jump-game) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aman251105/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aman251105/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Aman251105/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aman251105/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Aman251105/LeetCode-Questions/tree/master/0133-clone-graph) |
