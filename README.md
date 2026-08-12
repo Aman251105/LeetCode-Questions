@@ -47,6 +47,7 @@
 | [0035-search-insert-position](https://github.com/Aman251105/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Aman251105/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Aman251105/LeetCode-Questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Aman251105/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Aman251105/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aman251105/LeetCode-Questions/tree/master/0054-spiral-matrix) |
@@ -93,6 +94,7 @@
 | [0027-remove-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aman251105/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aman251105/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aman251105/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aman251105/LeetCode-Questions/tree/master/0125-valid-palindrome) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman251105/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aman251105/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aman251105/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0070-climbing-stairs) |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman251105/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aman251105/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aman251105/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aman251105/LeetCode-Questions/tree/master/0155-min-stack) |
@@ -228,6 +232,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aman251105/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Aman251105/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Aman251105/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aman251105/LeetCode-Questions/tree/master/0739-daily-temperatures) |
