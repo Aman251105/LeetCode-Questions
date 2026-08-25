@@ -297,6 +297,7 @@
 | [0133-clone-graph](https://github.com/Aman251105/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
+| [1192-critical-connections-in-a-network](https://github.com/Aman251105/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +358,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Aman251105/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
+| [1192-critical-connections-in-a-network](https://github.com/Aman251105/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 ## Shortest Path
 |  |
 | ------- |
@@ -373,4 +375,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman251105/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Aman251105/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Aman251105/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
