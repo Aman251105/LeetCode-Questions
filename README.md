@@ -274,6 +274,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Aman251105/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman251105/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Aman251105/LeetCode-Questions/tree/master/0169-majority-element) |
@@ -285,6 +286,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman251105/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aman251105/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aman251105/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Tree
@@ -332,6 +334,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman251105/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Aman251105/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Aman251105/LeetCode-Questions/tree/master/0743-network-delay-time) |
@@ -386,4 +389,12 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Aman251105/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aman251105/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
